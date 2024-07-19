@@ -17,8 +17,6 @@ numero_dos = input("Ingrese el segundo numero: ")
 numero_uno_int = int(numero_uno)
 numero_dos_int = int(numero_dos)
 
-
-
 #Procesamiento de la informacion
 resultado_suma = numero_uno_int + numero_dos_int
 
