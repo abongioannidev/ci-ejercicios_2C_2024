@@ -54,10 +54,7 @@ else:
                 else:
                     if(marca == "FelipeLamparas"):
                         porcentaje = 10
-                
-     
-                
-            
+                          
 
 importe_a_descontar = precio_bruto * porcentaje /100
 precio_final = precio_bruto - importe_a_descontar
